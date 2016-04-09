@@ -6,7 +6,7 @@ import java.util.Random;
  * @author dwen
  */
  
-public class DiceChance 
+public class SnakeEyes 
 {
     
 public static void main(String args[])
